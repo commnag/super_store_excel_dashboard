@@ -11,6 +11,7 @@ The second tab of the file has the report with key findings and suggestions.
 Rest of the tabs have additional information referred by the second tab.
 
 ### The DASHBOARD
+<img width="398" alt="SuperStoreDashboard" src="https://user-images.githubusercontent.com/54446705/205509161-c4bf98dd-37e7-415a-afc2-bf19d20fadcf.png">
 
 ### The REPORT
 #### Findings
